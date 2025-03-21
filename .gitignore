@@ -1,0 +1,4 @@
+venv
+.env
+classes/__pycache__/
+processed_data/
